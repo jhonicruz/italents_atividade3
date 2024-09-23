@@ -22,8 +22,9 @@ Atualmente, dois plugins oficiais estão disponíveis:
 
 1. Clone o repositório:
 
-```git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+```
+git clone https://github.com/seu-usuario/seu-repositorio.git
+ cd seu-repositorio
 ```
 
 Instale as dependências:
