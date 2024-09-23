@@ -54,6 +54,7 @@ O arquivo tailwind.config.js foi configurado para incluir um breakpoint personal
 
 Estrutura de Componentes
 
-- Header: Exibe o título da aplicação e um menu de navegação.
+- Header: Exibe a logomarca e um menu de navegação.
+- MainContent: Exibe uma lista de itens e um formulário para entrar na lista de espera.
 - Footer: Exibe informações de copyright.
-- MainContent: Exibe uma lista de itens e um formulário para adicionar novos itens.
+
